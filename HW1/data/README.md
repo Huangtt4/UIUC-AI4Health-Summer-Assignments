@@ -1,0 +1,1 @@
+Download the data from https://storage.googleapis.com/zifeng-drive/DS-agent-data/hw1data.zip and unzip it in this directory.
